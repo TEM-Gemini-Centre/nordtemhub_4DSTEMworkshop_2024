@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="316.84323mm"
+   height="169.67262mm"
+   viewBox="0 0 316.84323 169.67263"
+   version="1.1"
+   id="svg4845"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="part2.svg">
+  <defs
+     id="defs4839" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="726.69843"
+     inkscape:cy="161.63408"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4842">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(462.27125,-80.596401)">
+    <g
+       id="g1697">
+      <g
+         id="g4012"
+         transform="matrix(1.6536214,0,0,1.6536214,885.58359,-693.63899)"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-669.82642"
+           y="560.2644"
+           id="text6046-8-4-5-1-2-7-9-2-1-5-9-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-669.82642"
+             y="560.2644"
+             id="tspan83614-1-2-5-5-1-8-0">Filter</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-697.89966"
+           y="567.87097"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-7-0-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-697.89966"
+             y="567.87097"
+             id="tspan83614-1-2-5-5-3-2-4-3">Input</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-638.29688"
+           y="567.93323"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-0-9-9-7"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-638.29688"
+             y="567.93323"
+             id="tspan83614-1-2-5-5-3-7-2-4-7">Output</tspan></text>
+        <g
+           id="g4837-7-1-0-2"
+           transform="translate(2159.8009,288.50151)"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2875.4255,234.95 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-7-4-1-9" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2868.811,230.98125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-5-2-1-4-6" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2862.1965,227.0125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-2-66-7-2-3" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2855.582,223.04375 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-21-6-2-6-6" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2848.9675,219.075 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-22-3-0-6-9" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2875.4255,242.8875 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-0-6-2-1-6" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2868.811,238.91875 v 7.9375 l 6.6145,-3.96875 V 234.95 Z"
+             id="path4298-5-3-1-7-7-6" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2862.1965,234.95 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-2-5-6-6-2-9" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2855.582,230.98125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-21-5-5-5-7-4" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2848.9675,227.0125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-22-7-2-8-0-3" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2875.4255,250.825 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-8-8-0-5-2" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2868.811,246.85625 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-5-7-1-9-1-4" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2862.1965,242.8875 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-2-6-9-4-5-7" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2855.582,238.91875 v 7.9375 l 6.6145,-3.96875 V 234.95 Z"
+             id="path4298-21-4-0-4-2-5" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2848.9675,234.95 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-22-0-0-3-8-0" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M -2875.4255,258.7625 V 266.7 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-25-8-5-1-0" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2868.811,254.79375 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-5-0-6-2-9-9" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2862.1965,250.825 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-2-3-7-9-8-6" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2855.582,246.85625 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-21-9-7-7-4-7" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2848.9675,242.8875 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-22-2-8-0-0-9" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2875.4255,266.7 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-07-1-4-8-9" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2868.811,262.73125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-5-4-1-1-2-9" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M -2862.1965,258.7625 V 266.7 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-2-9-3-2-5-4" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2855.582,254.79375 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-21-7-4-5-1-1" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2848.9675,250.825 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-22-1-6-7-6-8" />
+        </g>
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -715.365,527.26475 v -3.62169 l 2.9594,-1.77649 c 1.6274,-0.97706 2.9956,-1.79051 3.04,-1.80767 0.045,-0.0172 0.081,1.58564 0.081,3.57282 v 3.60399 l -3.0403,1.82536 -3.0401,1.82537 z"
+           id="path9876-4-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -715.365,535.17325 v -3.57892 l 2.9594,-1.77649 c 1.6274,-0.97707 2.9956,-1.79052 3.04,-1.80767 0.045,-0.0172 0.081,1.58213 0.081,3.5648 v 3.59598 l -2.9858,1.79061 c -1.6423,0.98484 -3.0104,1.79062 -3.0403,1.79062 -0.03,0 -0.054,-1.61052 -0.054,-3.57893 z"
+           id="path11175-8-5"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -715.365,543.12306 v -3.59598 l 2.9858,-1.79061 c 1.6423,-0.98484 3.0102,-1.79062 3.0401,-1.79062 0.03,0 0.055,1.61052 0.055,3.57893 v 3.57893 l -2.9594,1.77648 c -1.6277,0.97707 -2.9958,1.79052 -3.0403,1.80767 -0.044,0.0172 -0.081,-1.58212 -0.081,-3.5648 z"
+           id="path11214-3-0"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -715.365,551.06625 v -3.60393 l 3.0401,-1.82536 3.0403,-1.82537 v 3.62084 3.62083 l -2.5834,1.54347 c -1.4208,0.84892 -2.7876,1.66272 -3.0374,1.80846 l -0.454,0.26498 z"
+           id="path11253-6-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -715.365,559.01751 v -3.60392 l 3.0401,-1.82536 3.0403,-1.82536 v 3.62083 3.62082 l -2.5834,1.5435 c -1.4208,0.84891 -2.7876,1.66272 -3.0374,1.80845 l -0.454,0.26495 z"
+           id="path11292-6-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -708.7234,555.01317 v -3.58597 l 2.9935,-1.79627 2.9935,-1.79626 v 3.62049 3.62051 l -2.898,1.73056 c -1.5941,0.95181 -2.9398,1.74461 -2.9906,1.76175 -0.06,0.0201 -0.093,-1.23343 -0.093,-3.55481 z"
+           id="path11332-7-5"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -702.0594,551.04665 0.024,-3.63107 2.93,-1.75923 c 1.6113,-0.96758 2.9477,-1.75923 2.9699,-1.75923 0.021,0 0.04,1.61471 0.04,3.58825 v 3.58824 l -2.7829,1.66618 c -1.5306,0.91639 -2.8781,1.72731 -2.9945,1.80203 l -0.2117,0.13586 z"
+           id="path11371-4-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -695.44,547.04407 v -3.58825 l 2.7829,-1.66617 c 1.5306,-0.9164 2.8781,-1.72732 2.9945,-1.80204 l 0.2117,-0.13587 -0.024,3.63106 -0.024,3.63105 -2.9298,1.75923 c -1.6115,0.96758 -2.9479,1.75923 -2.9699,1.75923 -0.021,0 -0.04,-1.61471 -0.04,-3.58824 z"
+           id="path11410-0-1"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -688.8921,543.12306 v -3.59598 l 2.9858,-1.79061 c 1.6423,-0.98484 3.0105,-1.79062 3.0404,-1.79062 0.03,0 0.054,1.61052 0.054,3.57893 v 3.57893 l -2.9591,1.77648 c -1.6277,0.97707 -2.9959,1.79052 -3.0403,1.80767 -0.045,0.0172 -0.081,-1.58212 -0.081,-3.5648 z"
+           id="path11449-6-7"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -688.8921,535.17179 v -3.59597 l 2.9858,-1.79062 c 1.6423,-0.98484 3.0105,-1.79062 3.0404,-1.79062 0.03,0 0.054,1.61052 0.054,3.57893 v 3.57893 l -2.9591,1.77648 c -1.6277,0.97707 -2.9959,1.79052 -3.0403,1.80767 -0.045,0.0172 -0.081,-1.58212 -0.081,-3.5648 z"
+           id="path11488-2-1"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -688.8921,527.22199 v -3.57893 l 2.9594,-1.77649 c 1.6277,-0.97706 2.9958,-1.79051 3.0403,-1.80767 0.044,-0.0172 0.081,1.58213 0.081,3.5648 v 3.59598 l -2.9858,1.79062 c -1.642,0.98484 -3.0102,1.79061 -3.0401,1.79061 -0.03,0 -0.054,-1.61051 -0.054,-3.57892 z"
+           id="path11527-7-5"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -688.8892,519.31434 v -3.62084 l 2.5833,-1.54348 c 1.4209,-0.84891 2.788,-1.66271 3.0375,-1.80845 l 0.454,-0.26496 v 3.60391 3.60392 l -3.0401,1.82537 -3.0403,1.82536 z"
+           id="path11566-9-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -688.8892,511.37037 v -3.62813 l 2.5833,-1.54349 c 1.4209,-0.84891 2.7882,-1.663 3.0388,-1.80908 l 0.4551,-0.26561 -0.024,3.62588 -0.024,3.62588 -2.8532,1.71963 c -1.5693,0.94579 -2.9268,1.76089 -3.0168,1.81134 -0.1545,0.0867 -0.1635,-0.10804 -0.1609,-3.53642 z"
+           id="path11605-8-2"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -695.4374,515.3067 v -3.6356 l 2.8982,-1.73057 c 1.5939,-0.95182 2.9396,-1.74461 2.9906,-1.76175 0.06,-0.0202 0.092,1.23418 0.092,3.55698 v 3.58816 l -2.7829,1.67569 c -1.5306,0.92163 -2.8776,1.73576 -2.9935,1.80919 l -0.2104,0.1335 z"
+           id="path11644-2-0"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -702.0818,519.2614 v -3.58825 l 2.7831,-1.66617 c 1.5306,-0.9164 2.8781,-1.72731 2.9946,-1.80204 l 0.2114,-0.13586 -0.024,3.63394 -0.024,3.63395 -2.8998,1.75381 c -1.5949,0.9646 -2.9316,1.75495 -2.9699,1.75634 -0.039,10e-4 -0.07,-1.61218 -0.07,-3.58572 z"
+           id="path11683-7-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -708.7012,523.25869 0.024,-3.62577 2.9298,-1.75924 c 1.6115,-0.96757 2.9479,-1.75923 2.9702,-1.75923 0.021,0 0.04,1.61714 0.04,3.59364 v 3.59362 l -2.9234,1.75311 c -1.6079,0.96421 -2.9554,1.77032 -2.9945,1.79137 -0.039,0.021 -0.06,-1.59333 -0.047,-3.5875 z"
+           id="path11722-2-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -708.7012,531.21524 0.024,-3.63106 2.9298,-1.75923 c 1.6115,-0.96758 2.9479,-1.75923 2.9702,-1.75923 0.021,0 0.04,1.61471 0.04,3.58825 v 3.58824 l -2.7832,1.66618 c -1.5306,0.91639 -2.8781,1.72731 -2.9945,1.80203 l -0.2114,0.13587 z"
+           id="path11761-6-2"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -708.7205,539.1454 v -3.6205 l 2.898,-1.73057 c 1.5941,-0.95181 2.9398,-1.7446 2.9906,-1.76175 0.06,-0.0202 0.093,1.23344 0.093,3.55481 v 3.58598 l -2.9935,1.79626 -2.9935,1.79627 z"
+           id="path11800-0-5"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -708.7234,547.06192 v -3.58599 l 2.9935,-1.79626 2.9935,-1.79627 v 3.6205 3.6205 l -2.898,1.73057 c -1.5941,0.95181 -2.9398,1.7446 -2.9906,1.76175 -0.06,0.0202 -0.093,-1.23344 -0.093,-3.5548 z"
+           id="path11839-2-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -702.0594,543.09537 0.024,-3.63106 2.93,-1.75923 c 1.6113,-0.96757 2.9477,-1.75923 2.9699,-1.75923 0.021,0 0.04,1.61471 0.04,3.58825 v 3.58824 l -2.7829,1.66618 c -1.5306,0.91639 -2.8781,1.72731 -2.9945,1.80203 l -0.2117,0.13587 z"
+           id="path11878-5-7"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -695.44,539.0928 v -3.58825 l 2.7829,-1.66617 c 1.5306,-0.9164 2.8781,-1.72731 2.9945,-1.80204 l 0.2117,-0.13587 -0.024,3.63106 -0.024,3.63105 -2.9298,1.75923 c -1.6115,0.96758 -2.9479,1.75923 -2.9699,1.75923 -0.021,0 -0.04,-1.61471 -0.04,-3.58824 z"
+           id="path11917-1-4"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -695.44,531.15938 v -3.58599 l 2.9932,-1.79626 2.9935,-1.79626 v 3.62049 3.6205 l -2.8982,1.73057 c -1.5939,0.95182 -2.9398,1.74461 -2.9906,1.76175 -0.06,0.0202 -0.092,-1.23343 -0.092,-3.5548 z"
+           id="path11956-5-0"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -695.4374,523.24286 v -3.62049 l 2.8982,-1.73057 c 1.5939,-0.95182 2.9396,-1.74461 2.9906,-1.76176 0.06,-0.0202 0.092,1.23344 0.092,3.55481 v 3.58599 l -2.9935,1.79626 -2.9933,1.79626 z"
+           id="path11995-7-4"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -702.0818,527.21267 v -3.58825 l 2.7831,-1.66617 c 1.5306,-0.9164 2.8781,-1.72731 2.9946,-1.80204 l 0.2114,-0.13587 -0.024,3.63106 -0.024,3.63105 -2.9297,1.75923 c -1.6116,0.96758 -2.948,1.75923 -2.9702,1.75923 -0.021,0 -0.04,-1.61471 -0.04,-3.58824 z"
+           id="path12034-3-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -702.0818,535.16143 v -3.6018 l 2.9233,-1.74987 c 1.6079,-0.96243 2.9549,-1.76705 2.9935,-1.78804 0.039,-0.021 0.07,1.58263 0.07,3.56362 v 3.60179 l -2.9234,1.74987 c -1.6076,0.96243 -2.9549,1.76705 -2.9933,1.78805 -0.039,0.021 -0.07,-1.58263 -0.07,-3.56362 z"
+           id="path12073-0-2"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g5090-1-3"
+           transform="translate(2193.3644,267.59944)"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2872.9778,259.82082 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-222-7-7" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2866.3633,255.85207 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-5-8-4-6" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2859.7488,251.88332 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-2-91-9-9" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2872.9778,267.75832 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-222-9-0-7" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2866.3633,263.78957 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-5-8-7-0-3" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2859.7488,259.82082 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-2-91-2-4-0" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2872.9778,275.69582 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-222-6-1-3" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2866.3633,271.72707 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-5-8-3-1-5" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2859.7488,267.75832 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+             id="path4298-2-91-4-2-2" />
+        </g>
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -679.3329,531.21929 0.016,-3.6365 3.0263,-1.81383 3.026,-1.81384 v 3.62466 3.62467 l -3.0432,1.82567 -3.0432,1.82567 z"
+           id="path6380-0"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -672.7344,527.26356 v -3.65349 l 2.9683,-1.77992 c 1.6325,-0.97896 3.0017,-1.80141 3.0427,-1.82768 l 0.074,-0.0478 v 3.65349 3.6535 l -2.9681,1.77992 c -1.6328,0.97895 -3.002,1.80141 -3.0427,1.82768 l -0.075,0.0478 z"
+           id="path8417-7"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -666.1199,523.29481 v -3.65349 l 2.9684,-1.77992 c 1.6325,-0.97896 3.0017,-1.80141 3.0427,-1.82768 l 0.074,-0.0478 v 3.65349 3.6535 l -2.9681,1.77992 c -1.6328,0.97895 -3.002,1.80141 -3.0427,1.82768 l -0.075,0.0478 z"
+           id="path8456-5"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -666.1199,531.23231 v -3.65349 l 2.9684,-1.77992 c 1.6325,-0.97896 3.0017,-1.80141 3.0427,-1.82768 l 0.074,-0.0478 v 3.65349 3.6535 l -2.9681,1.77992 c -1.6328,0.97895 -3.002,1.80141 -3.0427,1.82768 l -0.075,0.0478 z"
+           id="path8495-9"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -672.7344,535.20106 v -3.65349 l 2.9683,-1.77992 c 1.6325,-0.97896 3.0017,-1.80141 3.0427,-1.82768 l 0.074,-0.0478 v 3.65349 3.6535 l -2.9681,1.77992 c -1.6328,0.97895 -3.002,1.80141 -3.0427,1.82768 l -0.075,0.0478 z"
+           id="path8534-4"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -679.349,539.16981 v -3.65349 l 2.9683,-1.77992 c 1.6325,-0.97896 3.0017,-1.80141 3.0428,-1.82768 l 0.074,-0.0478 v 3.65349 3.6535 l -2.9681,1.77992 c -1.6327,0.97895 -3.002,1.80141 -3.0427,1.82768 l -0.075,0.0478 z"
+           id="path8573-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -679.349,547.10546 v -3.65164 l 2.9683,-1.77992 c 1.6325,-0.97896 3.0017,-1.80141 3.0428,-1.82768 l 0.074,-0.0478 v 3.65632 3.65633 l -3.0178,1.80952 c -1.6598,0.99523 -3.029,1.81557 -3.0427,1.82297 -0.013,0.007 -0.024,-1.62975 -0.024,-3.63814 z"
+           id="path8612-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -672.7344,543.13671 v -3.65164 l 2.9683,-1.77992 c 1.6325,-0.97896 3.0017,-1.80141 3.0427,-1.82768 l 0.074,-0.0478 v 3.65632 3.65633 l -3.0179,1.80951 c -1.6597,0.99523 -3.0289,1.81558 -3.0427,1.823 -0.013,0.007 -0.024,-1.62976 -0.024,-3.63816 z"
+           id="path8651-7"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -666.1199,539.16796 v -3.65164 l 2.9684,-1.77992 c 1.6325,-0.97896 3.0017,-1.80141 3.0427,-1.82768 l 0.074,-0.0478 v 3.65632 3.65633 l -3.0179,1.80951 c -1.6597,0.99523 -3.0289,1.81558 -3.0427,1.823 -0.013,0.007 -0.024,-1.62976 -0.024,-3.63816 z"
+           id="path8690-9"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#007dd8;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -659.7699,515.51401 h -29.3968"
+           id="path6190-0"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#007dd8;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -679.6134,551.23276 h -29.3968"
+           id="path6192-5"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#007dd8;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -659.7699,539.32651 h -29.3968"
+           id="path6194-0"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-675.95215"
+           y="225.59288"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-2"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-675.95215"
+             y="225.59288"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-6">w<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan21511-7">1</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-705.49658"
+           y="212.16002"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-0"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-705.49658"
+             y="212.16002"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-14">i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan56932-0">7</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-698.95703"
+           y="211.34959"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-8-9"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-698.95703"
+             y="211.34959"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-6-4">i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan59226-4">8</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-692.3623"
+           y="210.29857"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-3-0"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-692.3623"
+             y="210.29857"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-3-4">i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan60628-9">9</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-705.55859"
+           y="220.02135"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-89-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-705.55859"
+             y="220.02135"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-0-5">i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan62460-5">12</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-698.86353"
+           y="219.48326"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-9-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-698.86353"
+             y="219.48326"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-5-7">i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan73276-6">13</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-692.26855"
+           y="218.33873"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-2-9"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-692.26855"
+             y="218.33873"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-1-8">i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan75468-7">14</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-705.55859"
+           y="228.10619"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-7-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-705.55859"
+             y="228.10619"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-7-7">i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan83856-4">17</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-698.86353"
+           y="227.05382"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-99-4"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-698.86353"
+             y="227.05382"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-58-9">i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan82162-9">18</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-692.30859"
+           y="226.18529"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-5-7"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-692.30859"
+             y="226.18529"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-08-0">i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan80846-7">19</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-662.93237"
+           y="231.64684"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-5-9"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-662.93237"
+             y="231.64684"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-8-8">w<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan28711-0">6</tspan></tspan></text>
+        <path
+           style="fill:none;stroke:#007dd8;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -679.6134,527.42026 36.3466,4.13937"
+           id="path13830-9"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-669.5459"
+           y="224.63084"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-92-9"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-669.5459"
+             y="224.63084"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-6-3">w<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan23895-0">2</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-662.93262"
+           y="223.77257"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-2-5"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-662.93262"
+             y="223.77257"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-61-9">w<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan26339-0">3</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-675.95239"
+           y="233.44127"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-4-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-675.95239"
+             y="233.44127"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-0-4">w<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan33231-9">4</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-669.54639"
+           y="232.4016"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-8-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-669.54639"
+             y="232.4016"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-9-8">w<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan31571-4">5</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-675.95239"
+           y="241.30431"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-42-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-675.95239"
+             y="241.30431"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-7-4">w<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan34751-4">7</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-669.54639"
+           y="240.27159"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-53-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-669.54639"
+             y="240.27159"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-09-2">w<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan36205-7">8</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-662.93237"
+           y="239.33226"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-3-0"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-662.93237"
+             y="239.33226"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-4-6">w<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan37455-5">9</tspan></tspan></text>
+        <path
+           style="fill:none;stroke:#007dd8;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -709.0102,527.42026 h 29.3968"
+           id="path6075-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#007dd8;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -679.6134,551.23276 36.4093,-12.53302"
+           id="path13834-8"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#007dd8;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -659.7699,515.51401 22.4756,12.51352"
+           id="path13832-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#007dd8;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -637.28,535.18713 -22.4899,4.13938"
+           id="path13836-3"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g14183-5"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="translate(2194.1254,288.16621)">
+          <g
+             id="g4837-7-1-08"
+             transform="translate(24.4905,0.3353005)">
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2875.4255,234.95 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-7-4-15" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2868.811,230.98125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-5-2-1-2" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2862.1965,227.0125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-2-66-7-28" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2855.582,223.04375 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-21-6-2-9" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2848.9675,219.075 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-22-3-0-1" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2875.4255,242.8875 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-0-6-2-5" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2868.811,238.91875 v 7.9375 l 6.6145,-3.96875 V 234.95 Z"
+               id="path4298-5-3-1-7-2" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2862.1965,234.95 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-2-5-6-6-3" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2855.582,230.98125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-21-5-5-5-3" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2848.9675,227.0125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-22-7-2-8-3" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2875.4255,250.825 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-8-8-0-4" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2868.811,246.85625 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-5-7-1-9-6" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2862.1965,242.8875 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-2-6-9-4-3" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2855.582,238.91875 v 7.9375 l 6.6145,-3.96875 V 234.95 Z"
+               id="path4298-21-4-0-4-1" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2848.9675,234.95 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-22-0-0-3-1" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M -2875.4255,258.7625 V 266.7 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-25-8-5-7" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2868.811,254.79375 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-5-0-6-2-4" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2862.1965,250.825 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-2-3-7-9-7" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2855.582,246.85625 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-21-9-7-7-7" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2848.9675,242.8875 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-22-2-8-0-8" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2875.4255,266.7 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-07-1-4-2" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2868.811,262.73125 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-5-4-1-1-21" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M -2862.1965,258.7625 V 266.7 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-2-9-3-2-9" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2855.582,254.79375 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-21-7-4-5-6" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2848.9675,250.825 v 7.9375 l 6.6145,-3.96875 v -7.9375 z"
+               id="path4298-22-1-6-7-60" />
+          </g>
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2850.6754,239.09854 v -3.62169 l 2.9594,-1.77649 c 1.6274,-0.97706 2.9956,-1.79051 3.04,-1.80767 0.045,-0.0172 0.081,1.58564 0.081,3.57282 v 3.60399 l -3.0403,1.82536 -3.0401,1.82537 z"
+             id="path9876-1" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2850.6754,247.00704 v -3.57892 l 2.9594,-1.77649 c 1.6274,-0.97707 2.9956,-1.79052 3.04,-1.80767 0.045,-0.0172 0.081,1.58213 0.081,3.5648 v 3.59598 l -2.9858,1.79061 c -1.6423,0.98484 -3.0104,1.79062 -3.0403,1.79062 -0.03,0 -0.054,-1.61052 -0.054,-3.57893 z"
+             id="path11175-6" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2850.6754,254.95685 v -3.59598 l 2.9858,-1.79061 c 1.6423,-0.98484 3.0102,-1.79062 3.0401,-1.79062 0.03,0 0.055,1.61052 0.055,3.57893 v 3.57893 l -2.9594,1.77648 c -1.6277,0.97707 -2.9958,1.79052 -3.0403,1.80767 -0.044,0.0172 -0.081,-1.58212 -0.081,-3.5648 z"
+             id="path11214-4" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2850.6754,262.90004 v -3.60393 l 3.0401,-1.82536 3.0403,-1.82537 v 3.62084 3.62083 l -2.5834,1.54347 c -1.4208,0.84892 -2.7876,1.66272 -3.0374,1.80846 l -0.454,0.26498 z"
+             id="path11253-2" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2850.6754,270.8513 v -3.60392 l 3.0401,-1.82536 3.0403,-1.82536 v 3.62083 3.62082 l -2.5834,1.5435 c -1.4208,0.84891 -2.7876,1.66272 -3.0374,1.80845 l -0.454,0.26495 z"
+             id="path11292-8" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2844.0338,266.84696 v -3.58597 l 2.9935,-1.79627 2.9935,-1.79626 v 3.62049 3.62051 l -2.898,1.73056 c -1.5941,0.95181 -2.9398,1.74461 -2.9906,1.76175 -0.06,0.0201 -0.093,-1.23343 -0.093,-3.55481 z"
+             id="path11332-2" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2837.3698,262.88044 0.024,-3.63107 2.93,-1.75923 c 1.6113,-0.96758 2.9477,-1.75923 2.9699,-1.75923 0.021,0 0.04,1.61471 0.04,3.58825 v 3.58824 l -2.7829,1.66618 c -1.5306,0.91639 -2.8781,1.72731 -2.9945,1.80203 l -0.2117,0.13586 z"
+             id="path11371-6" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2830.7504,258.87786 v -3.58825 l 2.7829,-1.66617 c 1.5306,-0.9164 2.8781,-1.72732 2.9945,-1.80204 l 0.2117,-0.13587 -0.024,3.63106 -0.024,3.63105 -2.9298,1.75923 c -1.6115,0.96758 -2.9479,1.75923 -2.9699,1.75923 -0.021,0 -0.04,-1.61471 -0.04,-3.58824 z"
+             id="path11410-2" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2824.2025,254.95685 v -3.59598 l 2.9858,-1.79061 c 1.6423,-0.98484 3.0105,-1.79062 3.0404,-1.79062 0.03,0 0.054,1.61052 0.054,3.57893 v 3.57893 l -2.9591,1.77648 c -1.6277,0.97707 -2.9959,1.79052 -3.0403,1.80767 -0.044,0.0172 -0.081,-1.58212 -0.081,-3.5648 z"
+             id="path11449-1" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2824.2025,247.00558 v -3.59597 l 2.9858,-1.79062 c 1.6423,-0.98484 3.0105,-1.79062 3.0404,-1.79062 0.03,0 0.054,1.61052 0.054,3.57893 v 3.57893 l -2.9591,1.77648 c -1.6277,0.97707 -2.9959,1.79052 -3.0403,1.80767 -0.044,0.0172 -0.081,-1.58212 -0.081,-3.5648 z"
+             id="path11488-9" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2824.2025,239.05578 v -3.57893 l 2.9594,-1.77649 c 1.6277,-0.97706 2.9958,-1.79051 3.0403,-1.80767 0.044,-0.0172 0.081,1.58213 0.081,3.5648 v 3.59598 l -2.9858,1.79062 c -1.642,0.98484 -3.0102,1.79061 -3.0401,1.79061 -0.03,0 -0.054,-1.61051 -0.054,-3.57892 z"
+             id="path11527-6" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2824.1996,231.14813 v -3.62084 l 2.5833,-1.54348 c 1.4209,-0.84891 2.788,-1.66271 3.0375,-1.80845 l 0.454,-0.26496 v 3.60391 3.60392 l -3.0401,1.82537 -3.0403,1.82536 z"
+             id="path11566-2" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2824.1996,223.20416 v -3.62813 l 2.5833,-1.54349 c 1.4209,-0.84891 2.7882,-1.663 3.0388,-1.80908 l 0.4551,-0.26561 -0.024,3.62588 -0.024,3.62588 -2.8532,1.71963 c -1.5693,0.94579 -2.9268,1.76089 -3.0168,1.81134 -0.1545,0.0867 -0.1635,-0.10804 -0.1609,-3.53642 z"
+             id="path11605-3" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2830.7478,227.14049 v -3.6356 l 2.8982,-1.73057 c 1.5939,-0.95182 2.9396,-1.74461 2.9906,-1.76175 0.06,-0.0202 0.092,1.23418 0.092,3.55698 v 3.58816 l -2.7829,1.67569 c -1.5306,0.92163 -2.8776,1.73576 -2.9935,1.80919 l -0.2104,0.1335 z"
+             id="path11644-28" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2837.3922,231.09519 v -3.58825 l 2.7831,-1.66617 c 1.5306,-0.9164 2.8781,-1.72731 2.9946,-1.80204 l 0.2114,-0.13586 -0.024,3.63394 -0.024,3.63395 -2.8998,1.75381 c -1.5949,0.9646 -2.9316,1.75495 -2.9699,1.75634 -0.039,10e-4 -0.07,-1.61218 -0.07,-3.58572 z"
+             id="path11683-6" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2844.0116,235.09248 0.024,-3.62577 2.9298,-1.75924 c 1.6115,-0.96757 2.9479,-1.75923 2.9702,-1.75923 0.021,0 0.04,1.61714 0.04,3.59364 v 3.59362 l -2.9234,1.75311 c -1.6079,0.96421 -2.9554,1.77032 -2.9945,1.79137 -0.039,0.021 -0.06,-1.59333 -0.047,-3.5875 z"
+             id="path11722-8" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2844.0116,243.04903 0.024,-3.63106 2.9298,-1.75923 c 1.6115,-0.96758 2.9479,-1.75923 2.9702,-1.75923 0.021,0 0.04,1.61471 0.04,3.58825 v 3.58824 l -2.7832,1.66618 c -1.5306,0.91639 -2.8781,1.72731 -2.9945,1.80203 l -0.2114,0.13587 z"
+             id="path11761-8" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2844.0309,250.97919 v -3.6205 l 2.898,-1.73057 c 1.5941,-0.95181 2.9398,-1.7446 2.9906,-1.76175 0.06,-0.0202 0.093,1.23344 0.093,3.55481 v 3.58598 l -2.9935,1.79626 -2.9935,1.79627 z"
+             id="path11800-8" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2844.0338,258.89571 v -3.58599 l 2.9935,-1.79626 2.9935,-1.79627 v 3.6205 3.6205 l -2.898,1.73057 c -1.5941,0.95181 -2.9398,1.7446 -2.9906,1.76175 -0.06,0.0202 -0.093,-1.23344 -0.093,-3.5548 z"
+             id="path11839-1" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2837.3698,254.92916 0.024,-3.63106 2.93,-1.75923 c 1.6113,-0.96757 2.9477,-1.75923 2.9699,-1.75923 0.021,0 0.04,1.61471 0.04,3.58825 v 3.58824 l -2.7829,1.66618 c -1.5306,0.91639 -2.8781,1.72731 -2.9945,1.80203 l -0.2117,0.13587 z"
+             id="path11878-0" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2830.7504,250.92659 v -3.58825 l 2.7829,-1.66617 c 1.5306,-0.9164 2.8781,-1.72731 2.9945,-1.80204 l 0.2117,-0.13587 -0.024,3.63106 -0.024,3.63105 -2.9298,1.75923 c -1.6115,0.96758 -2.9479,1.75923 -2.9699,1.75923 -0.021,0 -0.04,-1.61471 -0.04,-3.58824 z"
+             id="path11917-7" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2830.7504,242.99317 v -3.58599 l 2.9932,-1.79626 2.9935,-1.79626 v 3.62049 3.6205 l -2.8982,1.73057 c -1.5939,0.95182 -2.9398,1.74461 -2.9906,1.76175 -0.06,0.0202 -0.092,-1.23343 -0.092,-3.5548 z"
+             id="path11956-4" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2830.7478,235.07665 v -3.62049 l 2.8982,-1.73057 c 1.5939,-0.95182 2.9396,-1.74461 2.9906,-1.76176 0.06,-0.0202 0.092,1.23344 0.092,3.55481 v 3.58599 l -2.9935,1.79626 -2.9933,1.79626 z"
+             id="path11995-1" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2837.3922,239.04646 v -3.58825 l 2.7831,-1.66617 c 1.5306,-0.9164 2.8781,-1.72731 2.9946,-1.80204 l 0.2114,-0.13587 -0.024,3.63106 -0.024,3.63105 -2.9297,1.75923 c -1.6116,0.96758 -2.948,1.75923 -2.9702,1.75923 -0.021,0 -0.04,-1.61471 -0.04,-3.58824 z"
+             id="path12034-4" />
+          <path
+             style="fill:#82caff;fill-opacity:1;stroke:#000000;stroke-width:0.176777;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2837.3922,246.99522 v -3.6018 l 2.9233,-1.74987 c 1.6079,-0.96243 2.9549,-1.76705 2.9935,-1.78804 0.039,-0.021 0.07,1.58263 0.07,3.56362 v 3.60179 l -2.9234,1.74987 c -1.6076,0.96243 -2.9549,1.76705 -2.9933,1.78805 -0.039,0.021 -0.07,-1.58263 -0.07,-3.56362 z"
+             id="path12073-05" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-640.12939"
+           y="245.62022"
+           id="text6046-8-4-5-1-2-7-9-2-1-9-02-3-6-3-1-5-2-8-5-3-9-8-995-2"
+           inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference - MAM\figures\basic_CNN.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="skewY(-24.25522)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-640.12939"
+             y="245.62022"
+             id="tspan83614-1-2-5-5-3-8-0-4-2-6-63-0-13-4-3-3-9-8-0">o<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan54914-4">13</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:9.87778px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="-282.79944"
+         y="136.13954"
+         id="text1378"><tspan
+           sodipodi:role="line"
+           id="tspan1376"
+           x="-282.79944"
+           y="136.13954"
+           style="font-size:9.87778px;stroke-width:0.264583">Convolutional layer example</tspan></text>
+    </g>
+    <g
+       id="g1944">
+      <text
+         xml:space="preserve"
+         style="font-size:10.3539px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.388269"
+         x="-416.1691"
+         y="235.02782"
+         id="text6046-8-4-5-1-0-0-2-5-3"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3539px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.388269"
+           x="-416.1691"
+           y="235.02782"
+           id="tspan11797-0-6-0-9-4-5-3-5">Convolutional layers</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3539px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.388269"
+           x="-416.1691"
+           y="248.09004"
+           id="tspan29615-6-4-94-5-8-4-5">with pooling</tspan></text>
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0954592;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path16509-9-4-3-1-9-6-1"
+         cx="-360.69537"
+         cy="160.74057"
+         rx="0.93050432"
+         ry="0.93050474" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0954592;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path16509-4-6-5-1-8-8-0-1"
+         cx="-360.69537"
+         cy="166.60976"
+         rx="0.93050432"
+         ry="0.93050474" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0954592;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path16509-4-2-7-0-6-3-0-8-1"
+         cx="-360.69537"
+         cy="172.47931"
+         rx="0.93050432"
+         ry="0.93050474" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.12767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -355.74105,143.32433 29.23669,12.75017"
+         id="path51412-0-2-1-2-5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.12767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -355.75469,123.63989 29.25033,32.43461"
+         id="path51414-6-0-7-2-4" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.12767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -355.75499,187.95734 29.15392,-10.97306"
+         id="path51416-8-1-0-1-5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.12767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -355.71478,207.64648 29.11371,-30.6622"
+         id="path51418-6-0-0-4-4" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.369565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path12446-78-1-2-7-4-8-6-8"
+         cx="-360.67542"
+         cy="187.90434"
+         r="4.9571533" />
+      <path
+         style="fill:#aaeeff;fill-opacity:1;stroke:#abc837;stroke-width:0.0978232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -362.75033,191.96047 c -2.91735,-1.48244 -3.39633,-5.29994 -0.93625,-7.46006 2.3302,-2.04581 5.7528,-1.39117 7.08204,1.35462 0.67856,1.40159 0.68678,2.75534 0.0249,4.05303 -1.18367,2.32008 -3.87928,3.21671 -6.17045,2.05241 z"
+         id="path60849-4-6-2-5-9" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.369565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path12446-0-6-4-5-3-8-6-5-7-8"
+         cx="-360.67542"
+         cy="207.46898"
+         r="4.9571533" />
+      <path
+         style="fill:#aaeeff;fill-opacity:1;stroke:#abc837;stroke-width:0.0978232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -362.41648,211.69936 c -1.94588,-0.91028 -3.18252,-3.04693 -2.84471,-4.91517 0.54708,-3.02476 3.90951,-4.7897 6.55405,-3.44006 2.40798,1.22901 3.26455,3.75542 2.09365,6.1747 -1.04631,2.1613 -3.707,3.16109 -5.80299,2.18053 z"
+         id="path60888-2-9-8-2-7" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.369565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path12446-7-1-5-9-3-8-1-3-5-0"
+         cx="-321.54544"
+         cy="156.33353"
+         r="4.9571533" />
+      <path
+         style="fill:#aaeeff;fill-opacity:1;stroke:#abc837;stroke-width:0.0978232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -323.02398,160.69514 c -1.91065,-0.6812 -3.06761,-2.27547 -3.09314,-4.26287 -0.0528,-4.07049 4.71617,-6.20156 7.67886,-3.4314 1.49257,1.39557 1.87999,3.6389 0.94462,5.47207 -0.60182,1.17971 -1.54848,1.91301 -2.98221,2.31011 -1.27171,0.35234 -1.31838,0.35072 -2.54813,-0.0881 z"
+         id="path60927-0-6-9-8-9-5" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.369565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path12446-7-1-5-9-3-8-1-3-2-7"
+         cx="-321.54544"
+         cy="176.82536"
+         r="4.9571533" />
+      <path
+         style="fill:#aaeeff;fill-opacity:1;stroke:#abc837;stroke-width:0.0978232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -323.02398,181.18699 c -1.91065,-0.6812 -3.06761,-2.27547 -3.09314,-4.26287 -0.0528,-4.07049 4.71617,-6.20156 7.67886,-3.4314 1.49257,1.39557 1.87999,3.6389 0.94462,5.47207 -0.60182,1.1797 -1.54848,1.913 -2.98221,2.3101 -1.27171,0.35234 -1.31838,0.35073 -2.54813,-0.0881 z"
+         id="path60927-0-6-9-8-0-5" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.369565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path12446-7-1-5-5-4-2-8-0"
+         cx="-360.67542"
+         cy="143.38295"
+         r="4.9571533" />
+      <path
+         style="fill:#aaeeff;fill-opacity:1;stroke:#abc837;stroke-width:0.0978232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -362.75033,147.44265 c -2.91735,-1.48244 -3.39633,-5.30008 -0.93625,-7.46006 2.3302,-2.04581 5.7528,-1.39117 7.08204,1.35463 0.67856,1.40158 0.68678,2.75533 0.0249,4.05302 -1.18367,2.32008 -3.87928,3.21671 -6.17045,2.05241 z"
+         id="path60966-0-6-0-6-8" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.369565;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path12446-7-3-43-5-6-9-3-6-8"
+         cx="-360.67542"
+         cy="123.81831"
+         r="4.9571533" />
+      <path
+         style="fill:#aaeeff;fill-opacity:1;stroke:#abc837;stroke-width:0.0978232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -361.62933,128.33347 c -1.75158,-0.42836 -3.03503,-1.68115 -3.50331,-3.41908 -0.75105,-2.78953 1.51356,-5.66138 4.46348,-5.66035 1.42551,5.9e-4 2.67961,0.64804 3.68014,1.90009 0.69602,0.87065 0.79493,1.1957 0.79493,2.60726 0,1.29271 -0.12767,1.79854 -0.64246,2.55048 -1.06436,1.55318 -3.1357,2.42691 -4.79278,2.0216 z"
+         id="path61005-1-0-9-5-1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.12767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -355.75484,187.95734 29.25077,-31.88284"
+         id="path7184-7" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.12767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -355.71478,207.64648 29.21071,-51.57198"
+         id="path7186-9" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.12767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -355.75484,123.63989 29.15363,53.34439"
+         id="path7301-7" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.12767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -355.7409,143.32433 29.13969,33.65995"
+         id="path7303-5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -403.28142,80.889897 V 144.16251"
+         id="path2856-9-3-8-8-9"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -425.98784,223.21446 18.71899,-32.42244"
+         id="path3281-2-7-4-2-0"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -438.94933,120.19303 V 223.20594"
+         id="path1015-22-5-4-5-1-4"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -434.01552,120.19303 V 223.20594"
+         id="path1015-2-9-5-5-7-0-7"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -438.94933,120.19303 22.6916,-39.303133"
+         id="path1232-4-90-3-5-9-6"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -434.01552,120.19303 22.69159,-39.303133"
+         id="path1232-1-8-7-8-1-9-0"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -438.94933,223.20594 h 4.93381"
+         id="path1347-4-9-5-4-4-0"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -438.94933,120.19303 h 4.93381"
+         id="path1484-7-4-7-3-3-4"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -416.25773,80.889897 h 4.9338"
+         id="path1484-1-3-8-5-7-5-9"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -430.90682,120.19303 V 223.20594"
+         id="path1015-7-4-4-9-1-0-3"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -425.97302,120.19303 V 223.20594"
+         id="path1015-2-0-3-5-5-7-7-1"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -430.90682,120.19303 22.69159,-39.303133"
+         id="path1232-9-4-4-9-3-2-8"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -425.97302,120.19303 22.6916,-39.303133"
+         id="path1232-1-3-7-7-3-4-0-1"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -430.90682,223.20594 h 4.9338"
+         id="path1347-8-9-70-1-1-4-2"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -430.90682,120.19303 h 4.9338"
+         id="path1484-6-9-8-3-7-6-9"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -408.21523,80.889897 h 4.93381"
+         id="path1484-1-0-3-5-9-8-9-8"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -434.01641,223.20624 3.12823,-5.41807"
+         id="path1766-9-7-7-2-1-1"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -411.32393,80.889897 v 5.387694"
+         id="path1881-65-2-6-6-5-0"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -407.32183,151.13772 v 72.06822"
+         id="path1015-22-3-0-4-4-16-0"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -403.87003,151.13772 v 72.06822"
+         id="path1015-2-9-7-7-8-1-3-7"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -407.32183,151.13772 15.87517,-27.49656"
+         id="path1232-4-9-1-8-2-0-6"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -403.87003,151.13772 15.87502,-27.49656"
+         id="path1232-1-8-4-4-8-1-6-7"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -407.32183,223.20594 h 3.4518"
+         id="path1347-4-6-1-5-0-61-2"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -407.32183,151.13772 h 3.4518"
+         id="path1484-7-2-1-6-7-1-8"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -391.44666,123.64116 h 3.45165"
+         id="path1484-1-3-3-0-8-1-6-4"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -401.69538,151.13772 v 72.06822"
+         id="path1015-7-4-5-13-8-8-2-1"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -398.24358,151.13772 v 72.06822"
+         id="path1015-2-0-3-3-4-5-3-1-2"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -401.69538,151.13772 15.87517,-27.49656"
+         id="path1232-9-4-3-43-1-6-2-3"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -398.24358,151.13772 15.87502,-27.49656"
+         id="path1232-1-3-7-1-6-4-7-3-7"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -401.69538,223.20594 h 3.4518"
+         id="path1347-8-9-0-1-1-7-9-0"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -401.69538,151.13772 h 3.4518"
+         id="path1484-6-9-4-8-7-3-3-9"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -385.82021,123.64116 h 3.45165"
+         id="path1484-1-0-3-8-2-8-2-3-5"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -403.87076,223.20624 2.18859,-3.79064"
+         id="path1766-9-2-6-9-3-5-9"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -387.99501,123.64116 v 3.76922"
+         id="path1881-65-0-8-7-3-9-8"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -382.36856,123.64116 v 72.1625"
+         id="path3396-74-0-9-8-0"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.586991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -398.23565,223.20148 15.91317,-27.56339"
+         id="path3398-7-4-1-6-1"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.146748;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -437.91197,119.67047 c 0,-0.17595 21.64029,-37.844323 21.94465,-38.198132 0.0572,-0.06604 0.89883,-0.06604 1.87118,0 l 1.76801,0.120333 -10.99301,19.025249 -10.99302,19.02525 -1.79883,0.11887 c -0.98952,0.0646 -1.79898,0.0249 -1.79898,-0.091 z"
+         id="path22291-2-8-5-5"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.103766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -438.51789,171.8086 v -51.066 h 2.05916 2.05917 v 51.066 51.06599 h -2.05917 -2.05916 z"
+         id="path22330-5-2-2-6"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.103766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -433.57602,170.84065 v -50.47798 l 10.77613,-18.67628 10.77597,-18.676283 0.0793,1.638291 0.0792,1.638292 -9.7527,16.88464 -9.75271,16.88479 v 48.86947 48.86962 l -0.98908,1.64754 c -0.54399,0.90587 -1.03794,1.69875 -1.09752,1.76141 -0.0602,0.0631 -0.1086,-22.60061 -0.1086,-50.36366 z"
+         id="path22369-7-0-9-3"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.103766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -406.94483,187.1832 v -35.69123 h 1.37282 1.37268 v 35.69123 35.69139 h -1.37268 -1.37282 z"
+         id="path22447-2-2-9-6"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.103766;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -406.34992,150.4348 c 0.0499,-0.12914 3.48907,-6.11968 7.64159,-13.31398 l 7.55003,-13.0808 1.18278,-0.001 h 1.18264 l -0.90807,1.60396 c -0.49953,0.8821 -3.93504,6.86955 -7.6347,13.30546 l -6.72633,11.70166 -1.18968,0.0147 c -0.65435,0 -1.14859,-0.0954 -1.09826,-0.22335 z"
+         id="path22486-2-3-0-0"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:0.0733737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -425.56506,170.98241 v -50.66934 l 10.91964,-18.91181 10.91979,-18.911813 0.0499,30.713703 0.0484,30.71355 -2.03876,3.53207 -2.03921,3.53207 v 19.87316 19.87316 l -8.48143,14.68563 c -4.66467,8.07714 -8.68203,15.03518 -8.92783,15.46221 l -0.44656,0.77659 z"
+         id="path53771-3-1-0-8"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:0.0733737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -430.42123,171.75885 v -51.15448 h 2.03847 2.03847 v 51.15448 51.15463 h -2.03847 -2.03847 z"
+         id="path53810-0-0-1-0"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:0.0733737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -430.04615,119.48806 c 0.10713,-0.18696 5.11709,-8.85754 11.13375,-19.26812 l 10.93945,-18.927955 1.99562,-0.05576 c 1.12923,-0.03082 1.96628,0.02054 1.92856,0.118866 -0.0382,0.09685 -5.0443,8.791653 -11.12773,19.323439 l -11.06066,19.14852 h -2.00194 c -1.85092,0 -1.98681,-0.025 -1.80705,-0.33973 z"
+         id="path53849-1-1-6-9"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:0.0733737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -401.30092,187.1926 v -35.72074 h 1.35889 1.35903 v 35.72074 35.72088 h -1.35903 -1.35889 z"
+         id="path53927-4-1-4-9"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:0.0733737;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -400.53533,149.96726 c 0.21205,-0.40048 3.64433,-6.36283 7.62765,-13.2497 l 7.24243,-12.52169 1.20935,-0.0572 c 0.66521,-0.0323 1.2095,0 1.2095,0.0704 0,0.0704 -3.42377,6.05892 -7.60814,13.30752 l -7.60813,13.17911 h -1.22887 -1.22886 z"
+         id="path54005-3-8-6-3"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <path
+         style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.148237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -390.36998,138.2079 c -2.52479,4.37365 -5.04973,8.74736 -7.57452,13.12107 0.0161,22.48514 -0.0367,44.97042 0.0367,67.45545 0.047,0.96146 -0.0558,1.98628 0.11887,2.91209 5.03242,-8.6647 10.02712,-17.35549 15.04222,-26.03189 -0.0161,-23.52594 -0.0323,-47.05192 -0.0499,-70.57784 -2.52494,4.37369 -5.04974,8.74741 -7.57468,13.12112 z"
+         id="path6565" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.388269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -398.23565,223.20147 32.62113,-15.66229"
+         id="path964" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.388269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -382.36856,123.64115 16.73628,0.0477"
+         id="path968" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.518829"
+         d="m -395.98043,138.14948 c -2.50551,4.34854 -5.02341,8.69189 -7.52115,13.04374 0.0182,23.456 -0.0448,46.91259 0.0568,70.36824 0.35689,-0.12708 0.52384,-0.78787 0.79462,-1.09562 0.86857,-0.93142 0.42955,-2.22598 0.53532,-3.3682 0.0442,-22.05199 0.0882,-44.10397 0.13237,-66.15595 4.55497,-7.89155 9.12421,-15.77719 13.67054,-23.67228 -0.13457,-0.48312 0.16068,-2.35781 -0.29003,-1.90682 -2.45954,4.2623 -4.91903,8.52457 -7.37853,12.78689 z"
+         id="path1020" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.3539px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.388269"
+         x="-326.9863"
+         y="115.65694"
+         id="text6046-8-4-5-1-0-0-2-5-3-6"
+         inkscape:export-filename="D:\NTNU\Papers\Paper 3 - Neural Network DPC processing\Conference\final images\models_horizontal.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3539px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.388269"
+           x="-326.9863"
+           y="115.65694"
+           id="tspan29615-6-4-94-5-8-4-5-5">Fully connected</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3539px;font-family:arial;-inkscape-font-specification:arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.388269"
+           x="-326.9863"
+           y="128.71916"
+           id="tspan1861">layers</tspan></text>
+    </g>
+  </g>
+</svg>
