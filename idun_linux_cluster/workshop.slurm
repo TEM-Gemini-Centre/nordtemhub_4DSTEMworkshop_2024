@@ -3,7 +3,6 @@
 #SBATCH --partition=CPUQ
 #SBATCH --time=00:30:00
 #SBATCH --mem=5G
-#SBATCH --output=outputfolder-%A.out
 #SBATCH --reservation=nordtemhub
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=1
