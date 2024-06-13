@@ -8,3 +8,6 @@ workshop will cover analysis of several types of 4D-STEM techniques, like scanni
 ptychography and differential phase contrast (DPC). We will teach how to use various open-source scientific Python packages
 to analyze diffraction data, and in particular big datasets.
 
+## Ptycography link
+[https://filesender.sikt.no/?s=download&token=f1a14012-2132-476b-aacd-6e78e2b33014](https://filesender.sikt.no/?s=download&token=f1a14012-2132-476b-aacd-6e78e2b33014)
+
