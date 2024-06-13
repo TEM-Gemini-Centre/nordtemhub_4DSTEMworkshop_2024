@@ -1,0 +1,8 @@
+file	data_BF.npy
+method	ssb
+aperture	0.013
+stepsize	0.3
+voltage	200.0
+rotation	0.0
+threshold	0.3
+workers	30

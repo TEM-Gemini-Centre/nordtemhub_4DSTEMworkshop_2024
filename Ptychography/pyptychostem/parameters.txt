@@ -1,0 +1,25 @@
+## important parameters
+file	graphene_simu_reshaped.npy
+method	ssb
+aperture	0.03
+stepsize	0.2
+voltage	60.0
+rotation	0
+
+
+## optional parameters
+threshold	0.3
+workers	1
+CBED/BF	-1
+dose -1
+
+## plotting options
+plot_4D	1
+plot_4D_reciprocal	1
+plot_aperture	1
+plot_result	1
+plot_trotters	1
+plot_power_spectrum	1
+
+## saving options
+save	1
